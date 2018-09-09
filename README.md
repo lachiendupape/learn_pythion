@@ -1,2 +1,2 @@
-# learn_pythion
+# learn_python
 for learning python
